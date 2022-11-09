@@ -16,7 +16,3 @@ function calculator(str) {
 
 calculator('1 + 1')
 
-// Question: ...
-
-// Code
-
