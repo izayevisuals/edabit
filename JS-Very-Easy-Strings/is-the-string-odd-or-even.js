@@ -20,4 +20,4 @@ function oddOrEven(s) {
 	}
 }
 
-oddOrEven('sup')
+oddOrEven('sup') // false
