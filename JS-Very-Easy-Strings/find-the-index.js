@@ -16,4 +16,4 @@ function findIndex(arr, str) {
     return arr.indexOf(str)
 }
 
-findIndex(["hi", "edabit", "fgh", "abc"], "fgh")
+findIndex(["hi", "edabit", "fgh", "abc"], "fgh") // 2
