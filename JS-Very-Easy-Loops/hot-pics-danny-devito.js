@@ -19,7 +19,7 @@
 // Code
 
 function preventDistractions(str) {
-	if(str.includes('anime', 'meme', 'vines', 'roasts', 'Danny DeVito')){
+	if(str.includes('anime')){
         return 'NO!'
     }else if(str.includes('meme')){
         return 'NO!'
