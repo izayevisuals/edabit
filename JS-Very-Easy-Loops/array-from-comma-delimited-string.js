@@ -18,4 +18,3 @@ function toArray(str) {
 	let newStr = str.split(',')
     return newStr
 }
-
