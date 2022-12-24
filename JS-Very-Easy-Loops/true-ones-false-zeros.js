@@ -13,9 +13,8 @@
 // Code
 
 function integerBoolean(n) {
-	if (n.includes('1')){
-        return 'true'
-    }else if(n.includes('0')){
-        return 'false'
-    }
+	let newN = n.replace(/0/g, false)
+    let newNewN = newN.replace(/1/g, true)
+
+    return newNewN.toString()
 }
